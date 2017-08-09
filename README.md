@@ -1,6 +1,9 @@
 # alurapic
 
-> A Vue.js project
+> This project has do following the course alura.com.br for vue.js
+
+- Part I       done
+- Part II      in progress
 
 ## Build Setup
 
@@ -15,4 +18,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
